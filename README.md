@@ -1,3 +1,4 @@
+<img align='center' src='https://image.freepik.com/free-vector/work-progress_24908-53218.jpg'>
 # Covid19Tracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
