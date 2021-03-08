@@ -27,8 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get any query drop a mail on abhinavs162@gmail.com
 
 ## project handled by 
-
-Project made by Abhinav Saxena </br>
-<img align="left" alt="yash1200 | Twitter" width="30px" src="https://camo.githubusercontent.com/f3b28541781a1b8a827118c29de2b8143e0ef0a6a707d2c36ac3fe82cf56b009/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3733332f3733333537392e737667" data-canonical-src="https://image.flaticon.com/icons/svg/733/733579.svg" style="max-width:100%;"> itsabhinav</br>
+<a href="https://github.com/abhinavs97" rel="nofollow">Abhinav Saxena</a></br>
+<img align="left" alt="yash1200 | Instagram" width="30px" src="https://camo.githubusercontent.com/84e9d5a7a17515440c3633ea1db744d356defc5d75641b844533a4254475845f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3137342f3137343835352e737667" data-canonical-src="https://image.flaticon.com/icons/svg/174/174855.svg" style="max-width:100%;">itsabhinav</br>
 mail:- abhinavs162@gmail.com</br> 
 
