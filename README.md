@@ -28,7 +28,7 @@ To get any query drop a mail on abhinavs162@gmail.com
 
 ## project handled by 
 
-Project made by Abhinav Saxena 
+Project made by Abhinav Saxena </br>
 IG:- itsabhinav</br>
 mail:- abhinavs162@gmail.com</br> 
 
