@@ -29,7 +29,8 @@ To get any query drop a mail on abhinavs162@gmail.com
 
 ## project handled by 
 <a href="https://github.com/abhinavs97" rel="nofollow">Abhinav Saxena</a></br>
-<img align="left" alt="abhinavs97 | Instagram" width="30px" src="https://camo.githubusercontent.com/84e9d5a7a17515440c3633ea1db744d356defc5d75641b844533a4254475845f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3137342f3137343835352e737667" data-canonical-src="https://image.flaticon.com/icons/svg/174/174855.svg" style="max-width:100%;">itsabhinav</br>
+<a href="http://www.instagram.com/whosabhinav" rel ="nofollow">
+<img align="left" alt="abhinavs97 | Instagram" width="30px" src="https://camo.githubusercontent.com/84e9d5a7a17515440c3633ea1db744d356defc5d75641b844533a4254475845f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3137342f3137343835352e737667" data-canonical-src="https://image.flaticon.com/icons/svg/174/174855.svg" style="max-width:100%;"></a>
 mail:- abhinavs162@gmail.com</br>
-<img align="left" alt="abhinavs97| LinkedIn" width="30px" src="https://avatars3.githubusercontent.com/u/357098?s=200&amp;v=4" style="max-width:100%;"> <a href="http"
+
 
